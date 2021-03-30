@@ -44,3 +44,24 @@ height:auto;
 display: flex;
 justify-content: flex-start;
 } */
+
+
+.Title{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.hr{
+  padding: 20px;
+}
+
+body{
+  padding: 30px;
+}
+
+.Image2{
+  padding: 0 400px;
+  display: flex;
+  justify-content: center;
+}
