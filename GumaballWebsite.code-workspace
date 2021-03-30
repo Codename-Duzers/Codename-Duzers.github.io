@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Pictures\\Camera Roll\\Imagens"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website 2"
+	}
+}
